@@ -1,0 +1,41 @@
+CMD
+
+Microsoft Windows [Version 10.0.19045.3271]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\OOP>https://github.com/LiryanaPurnama/OOP-C-Pertemuan2.git
+'https:' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\OOP>https://github.com/LiryanaPurnama/OOP-C-Pertemuan2.git
+'https:' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\OOP>git cloune https://github.com/LiryanaPurnama/OOP-C-Pertemuan2.git
+git: 'cloune' is not a git command. See 'git --help'.
+
+The most similar command is
+        clone
+
+C:\OOP>git clone https://github.com/LiryanaPurnama/OOP-C-Pertemuan2.git
+Cloning into 'OOP-C-Pertemuan2'...
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+Receiving objects: 100% (3/3), done.
+
+C:\OOP>dir
+ Volume in drive C has no label.
+ Volume Serial Number is 004B-7378
+
+ Directory of C:\OOP
+
+15/03/2025  13:55    <DIR>          .
+15/03/2025  13:55    <DIR>          ..
+15/03/2025  13:55    <DIR>          OOP-C-Pertemuan2
+               0 File(s)              0 bytes
+               3 Dir(s)  162.446.811.136 bytes free
+
+C:\OOP>cd OOP-C-Pertemuan2
+
+C:\OOP\OOP-C-Pertemuan2>
